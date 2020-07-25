@@ -1,0 +1,64 @@
+
+ArrayList Read without iterator executed, content is : 
+[B, u,  , g, ü, n,  , o, k, u, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:1240700 nanoseconds
+
+ArrayList Read with iterator executed, content is : 
+[B, u,  , g, ü, n,  , o, k, u, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:673001 nanoseconds
+
+LinkedList Read without iterator executed, content is : 
+[B, u,  , g, ü, n,  , o, k, u, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:441500 nanoseconds
+
+LinkedList Read with iterator executed, content is : 
+[B, u,  , g, ü, n,  , o, k, u, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:585600 nanoseconds
+
+ArrayList Add without iterator executed, 'tekrar' word added at 7th index content is : 
+[B, u,  , g, ü, n,  , t, e, k, r, a, r,  , o, k, u, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:37799 nanoseconds
+
+ArrayList Add with iterator executed, 'tekrar' word added at 7th index content is : 
+[B, u,  , g, ü, n,  , t, e, k, r, a, r,  , o, k, u, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:23400 nanoseconds
+
+LinkedList Add without iterator executed, 'tekrar' word added at 7th index content is : 
+[B, u,  , g, ü, n,  , t, e, k, r, a, r,  , o, k, u, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:32301 nanoseconds
+
+LinkedList Add with iterator executed, 'tekrar' word added at 7th index content is : 
+[B, u,  , g, ü, n,  , t, e, k, r, a, r,  , o, k, u, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:13001 nanoseconds
+
+ArrayList Find without iterator executed, 'okula' word searched, Start Index : 
+14
+ Running time:43199 nanoseconds
+
+ArrayList Find with iterator executed, 'okula' word searched, Start Index : 
+14
+ Running time:24600 nanoseconds
+
+LinkedList Find without iterator executed, 'okula' word searched, Start Index : 
+14
+ Running time:19599 nanoseconds
+
+LinkedList Find with iterator executed, 'okula' word searched, Start Index : 
+14
+ Running time:11600 nanoseconds
+
+ArrayList Replace without iterator executed, 'u' replaced to 'e' : 
+[B, e,  , g, ü, n,  , t, e, k, r, a, r,  , o, k, e, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:28000 nanoseconds
+
+ArrayList Replace with iterator executed,  'u' replaced to 'e' : 
+[B, e,  , g, ü, n,  , t, e, k, r, a, r,  , o, k, e, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:40399 nanoseconds
+
+LinkedList Replace without iterator executed,  'u' replaced to 'e' : 
+[B, e,  , g, ü, n,  , t, e, k, r, a, r,  , o, k, e, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:18600 nanoseconds
+
+LinkedList Replace with iterator executed,  'u' replaced to 'e' : 
+[B, e,  , g, ü, n,  , t, e, k, r, a, r,  , o, k, e, l, a,  , g, i, t, m, e, d, i, m, .]
+ Running time:15999 nanoseconds
